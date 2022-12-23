@@ -1,0 +1,25 @@
+#include <iostream>
+#include <cstdio>
+#include <string>
+#include <vector>
+#include <iomanip>
+#include <algorithm>
+#include <cstdlib>
+#include <numeric>
+#include <fstream>
+#include <sstream>
+#include <chrono>
+#include <list>
+#include <windows.h>
+
+using std::string;
+using std::cout;
+using std::cin;
+using std::endl;
+using std::sort;
+using std::vector;
+using std::left;
+using std::setw;
+using std::setprecision;
+using std::ofstream;
+using std::list;
